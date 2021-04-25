@@ -1,2 +1,2 @@
 include ':app'
-rootProject.name = "UI_Calculator"
+rootProject.name = "Calculator_Old"

@@ -1,5 +1,11 @@
 <resources>
-    <string name="app_name">UI_Calculator</string>
+    <string name="app_name">Calculator_Old</string>
+
+    <string name="saved_text_view_text">Сохранённые</string>
+    <string name="current_text_view_text">Текущее</string>
+    <string name="save_btn_text">Сохранить</string>
+    <string name="calc_btn_text">Калькулятор</string>
+    <string name="saved_nums_delimiter">\n</string>
 
     <string name="zero_btn_text">0</string>
     <string name="one_btn_text">1</string>
@@ -18,5 +24,8 @@
     <string name="div_btn_text">/</string>
     <string name="equals_btn_text">=</string>
 
+    <string name="error_msg">ERROR</string>
+
+    <string name="ok_btn_text">OK</string>
     <string name="clear_btn_text">C</string>
 </resources>

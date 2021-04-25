@@ -6,7 +6,7 @@ android {
     compileSdkVersion 29
 
     defaultConfig {
-        applicationId "com.example.ui_calculator"
+        applicationId "com.example.Calculator_Old"
         minSdkVersion 21
         targetSdkVersion 29
         versionCode 1
