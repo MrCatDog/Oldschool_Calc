@@ -1,9 +1,11 @@
-package com.example.Calculator_Old;
+package com.example.Calculator_Old.calc;
 
 import android.app.Activity;
 import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
+
+import com.example.Calculator_Old.R;
 
 import java.util.Locale;
 

@@ -10,7 +10,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.UI_Calculator">
 
-        <activity android:name="com.example.Calculator_Old.MainActivity">
+        <activity android:name="com.example.Calculator_Old.main.MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -18,7 +18,7 @@
             </intent-filter>
         </activity>
 
-        <activity android:name="com.example.Calculator_Old.Calculator">
+        <activity android:name="com.example.Calculator_Old.calc.Calculator">
 
         </activity>
 

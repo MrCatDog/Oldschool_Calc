@@ -1,4 +1,4 @@
-package com.example.Calculator_Old;
+package com.example.Calculator_Old.calc;
 
 import android.os.Bundle;
 import android.widget.Button;
@@ -6,6 +6,8 @@ import android.widget.TextView;
 
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
+
+import com.example.Calculator_Old.R;
 
 public class Calculator extends AppCompatActivity {
     private final static String RESULT_TAG = "result";

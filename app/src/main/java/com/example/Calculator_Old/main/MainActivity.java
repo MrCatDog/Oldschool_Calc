@@ -1,4 +1,4 @@
-package com.example.Calculator_Old;
+package com.example.Calculator_Old.main;
 
 import android.content.Intent;
 import android.content.SharedPreferences;
@@ -9,6 +9,9 @@ import android.widget.TextView;
 
 import androidx.annotation.Nullable;
 import androidx.appcompat.app.AppCompatActivity;
+
+import com.example.Calculator_Old.calc.ButtonResponderCalc;
+import com.example.Calculator_Old.R;
 
 public class MainActivity extends AppCompatActivity {
 

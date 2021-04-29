@@ -1,7 +1,10 @@
-package com.example.Calculator_Old;
+package com.example.Calculator_Old.main;
 
 import android.content.Intent;
 import android.view.View;
+
+import com.example.Calculator_Old.calc.Calculator;
+import com.example.Calculator_Old.R;
 
 import java.util.Stack;
 
