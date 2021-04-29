@@ -160,7 +160,7 @@ public class ButtonResponderCalc implements View.OnClickListener {
             wasAnswered = false;
         }
         lastOperator = operator;
-        calculator.clearResult();
+        calculator.clear();
         number = "";
     }
 

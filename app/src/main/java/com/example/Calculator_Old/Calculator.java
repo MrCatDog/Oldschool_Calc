@@ -103,12 +103,8 @@ public class Calculator extends AppCompatActivity {
         result.append(ch);
     }
 
-    public void clearResult() {
-        result.setText("");
-    }
-
     public void clear() {
-        clearResult();
+        result.setText("");
     }
 
     public void setAnswer(String answer) {
